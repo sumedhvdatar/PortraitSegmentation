@@ -1,4 +1,4 @@
-# Portrait Segmentation Using Deep Neural Networks
+# Image Segmentation and Portrait Mode Using Deep Learning
 
 Pipeline
 --------
