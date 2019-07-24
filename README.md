@@ -3,7 +3,7 @@
 Pipeline
 --------
 
-![Image description](link-to-image)
+![Image description](https://github.com/sumedhvdatar/PortraitSegmentation/blob/master/f.PNG)
 
 
 
